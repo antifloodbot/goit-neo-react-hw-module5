@@ -1,0 +1,11 @@
+.page {
+    padding: 20px;
+}
+
+.title {
+    margin: 0 0 16px;
+}
+
+.error {
+    color: #b00020;
+}

@@ -1,0 +1,56 @@
+.page {
+    padding: 20px;
+}
+
+.back {
+    display: inline-block;
+    margin-bottom: 16px;
+    text-decoration: none;
+}
+
+.details {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+}
+
+.poster {
+    width: 240px;
+    border-radius: 6px;
+}
+
+.title {
+    margin: 0 0 10px;
+}
+
+.sectionTitle {
+    margin: 16px 0 8px;
+}
+
+.subTitle {
+    margin: 0 0 10px;
+    font-weight: 600;
+}
+
+.subNav {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 10px;
+}
+
+.subLink {
+    text-decoration: none;
+}
+
+.activeLink {
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.hr {
+    margin: 16px 0;
+}
+
+.error {
+    color: #b00020;
+}
